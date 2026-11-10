@@ -1,4 +1,5 @@
 name: Deploy AKASHI GENERATIVE LAB to GitHub Pages
+# Deploys the uploaded AKASHI_GENERATIVE_LAB package to the configured Pages site.
 
 on:
   push:
